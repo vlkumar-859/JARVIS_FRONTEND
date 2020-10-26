@@ -18,8 +18,7 @@
 ![Jarvis Web page Design](https://github.com/PadmaJyothi-U/PadmaJyothi-U.github.io/blob/main/img/webpage.PNG)
 
 ## Youtube link for my bot
- [![my video](https://img.youtu.be/rWx_NSwgR1o)]
- 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rWx_NSwgR1o" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Description
 * Name of the bot - Jarvis
