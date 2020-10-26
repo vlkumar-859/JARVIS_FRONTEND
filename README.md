@@ -2,11 +2,14 @@
   Bot which provides assistance to customer for choosing a mobile based on specifications they provided
   
 ## Team Members
-1.U.Padma Jyothi, padmajyothi@vishnu.edu.in
+1.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
 
-2.D.Mamatha, mamatha.d@vishnu.edu.in
 
-3.V.Lohit Kumar, 19pa1a05i3@vishnu.edu.in
+2.U.Padma Jyothi, padmajyothi@vishnu.edu.in
+
+
+3.D.Mamatha, mamatha.d@vishnu.edu.in
+
 
 ## Working of Frontend
 BELOW U HAVE LINKS TO CHECK MY WORK..
@@ -21,8 +24,7 @@ BELOW U HAVE LINKS TO CHECK MY WORK..
 ![Jarvis Web page Design](https://github.com/PadmaJyothi-U/PadmaJyothi-U.github.io/blob/main/img/webpage.PNG)
 
 ## Youtube link for my bot
-Lohit Valavala, [26.10.20 13:22]
-https://www.youtube.com/watch?v=rWx_NSwgR1o 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/uQLwMbKEmrs/0.jpg)](https://www.youtube.com/watch?v=rWx_NSwgR1o&t=2s)
 
 ## Description
 * Name of the bot - Jarvis
