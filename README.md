@@ -18,7 +18,7 @@
 ![Jarvis Web page Design](https://github.com/PadmaJyothi-U/PadmaJyothi-U.github.io/blob/main/img/webpage.PNG)
 
 ## Youtube link for my bot
- [![my video](https://img.youtube.com/vi/uc90kG3HgUY/0.jpg)](https://www.youtube.com/watch?v=uc90kG3HgUY)
+ [![my video](https://youtu.be/rWx_NSwgR1o)
  
 
 ## Description
