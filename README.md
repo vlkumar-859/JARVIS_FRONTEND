@@ -14,8 +14,9 @@
 ## Working of Frontend
 BELOW U HAVE LINKS TO CHECK MY WORK..
 
+link for repl.it 👇
 
-(https://padmajyothi-ugithubio.padmajyothi.repl.co/)
+(https://jarvisfrontend.lohitvalavala.repl.co/)
 
 
 (https://padmajyothi-u.github.io/)
